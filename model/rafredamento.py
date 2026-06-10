@@ -4,8 +4,9 @@
 # Docente
 class memoria_volatile:
 
-    def __init__(self, id, nome, img, descrizione, rumorosita, compatibilita_socket, flusso_daria, size_radiatore, TDP, TDP_sopportabili):
+    def __init__(self, id, nome, img, marcha, descrizione, rumorosita, compatibilita_socket, flusso_daria, size_radiatore, TDP, TDP_sopportabili):
         super().__init__(id, nome, descrizione, img, rumorosita, compatibilita_socket, flusso_daria, size_radiatore, TDP, TDP_sopportabili)
+        self.marcha = marcha
         self.rumorosita = rumorosita
         self.compatibilita_socket = compatibilita_socket
         self.flusso_daria = flusso_daria

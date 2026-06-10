@@ -1,5 +1,5 @@
 from repository import maderboard_repository
-from model.maderboard import matherboard
+from model.maderboard import motherboard
 from exception.app_exception import AppException
 
 def create(data):
@@ -15,14 +15,17 @@ def create(data):
     #     raise AppException("Email già registrata!", 409)
 
     # "converto" oggetto dalla richiesta HTTP ad un oggetto di tipo Studente perché il repo si aspetta già uno studente
-    motherboard_2_create = maderboard(data["id"],
+    motherboard_2_create = motherboard(data["id"],
                                data["nome"],
                                 data["descrizione"],   
                                 data["img"],
-                                data[""],
-                                data["certificazione"],
-                                data["modularita"],
-                                data["sistemi_di_protezione"])
+                                data["marcha"],
+                                data["chipset"],
+                                data["formato"],
+                                data["socket"],
+                                data["slot_espansione_gpu"],
+                                data["slot_espansione_ram"],
+                                data["velocita_scheda"],)
 
     return maderboard_repository.create(motherboard_2_create)
 

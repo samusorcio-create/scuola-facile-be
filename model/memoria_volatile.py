@@ -4,8 +4,9 @@
 # Docente
 class memoria_volatile:
 
-    def __init__(self, id, nome, img, descrizione, tipo, capacita, velocita, TDP):
+    def __init__(self, id, nome, img, marcha, descrizione, tipo, capacita, velocita, TDP):
         super().__init__(id, nome, descrizione, img, tipo, capacita, velocita, TDP)
+        self.marcha = marcha
         self.tipo = tipo
         self.capacita = capacita
         self.velocita = velocita
