@@ -1,7 +1,3 @@
-# from model.cpu import Persona
-
-
-# Docente
 class memoria_volatile:
 
     def __init__(self, id, nome, img, marcha, descrizione, rumorosita, compatibilita_socket, flusso_daria, size_radiatore, TDP, TDP_sopportabili):

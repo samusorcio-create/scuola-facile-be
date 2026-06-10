@@ -15,17 +15,16 @@ def create(data):
     #     raise AppException("Email già registrata!", 409)
 
     # "converto" oggetto dalla richiesta HTTP ad un oggetto di tipo Studente perché il repo si aspetta già uno studente
-    memoria_volatile_2_create = memoria_volatile(data["id"],
-                               data["nome"],
+    memoria_volatile_2_create = memoria_volatile(
+                                data["id"],
+                                data["nome"],
                                 data["descrizione"],   
                                 data["img"],
-                                data["marcha"],
-                                data["chipset"],
-                                data["formato"],
-                                data["socket"],
-                                data["slot_espansione_gpu"],
-                                data["slot_espansione_ram"],
-                                data["velocita_scheda"],)
+                                data["marca"],
+                                data["tipo"],
+                                data["capacita"],
+                                data["velocita"],
+                                data["TDP"])
 
     return memoria_volatile_repository.create(memoria_volatile_2_create)
 
