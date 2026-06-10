@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "STU-001",
+        "nome": "Roberto",
+        "cognome": "Russo",
+        "corso": "Informatica",
+        "percentuale_assenze": 17,
+        "email": "roberto.russo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-002",
+        "nome": "Diego",
+        "cognome": "Mancini",
+        "corso": "Matematica",
+        "percentuale_assenze": 8,
+        "email": "diego.mancini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-003",
+        "nome": "Giovanni",
+        "cognome": "Fabbri",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 34,
+        "email": "giovanni.fabbri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-004",
+        "nome": "Antonio",
+        "cognome": "Marchetti",
+        "corso": "Cloud Computing",
+        "percentuale_assenze": 27,
+        "email": "antonio.marchetti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-005",
+        "nome": "Matteo",
+        "cognome": "Russo",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 5,
+        "email": "matteo.russo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-006",
+        "nome": "Gabriele",
+        "cognome": "Mancini",
+        "corso": "Web Development",
+        "percentuale_assenze": 32,
+        "email": "gabriele.mancini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-007",
+        "nome": "Andrea",
+        "cognome": "Coppola",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 12,
+        "email": "andrea.coppola@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-008",
+        "nome": "Lucia",
+        "cognome": "Ferrara",
+        "corso": "Matematica",
+        "percentuale_assenze": 14,
+        "email": "lucia.ferrara@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-009",
+        "nome": "Ilaria",
+        "cognome": "Marchetti",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 17,
+        "email": "ilaria.marchetti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-010",
+        "nome": "Marco",
+        "cognome": "Sala",
+        "corso": "Game Development",
+        "percentuale_assenze": 10,
+        "email": "marco.sala@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-011",
+        "nome": "Marta",
+        "cognome": "Fontana",
+        "corso": "Grafica",
+        "percentuale_assenze": 17,
+        "email": "marta.fontana@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-012",
+        "nome": "Nicola",
+        "cognome": "De Luca",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 21,
+        "email": "nicola.deluca@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-013",
+        "nome": "Giovanni",
+        "cognome": "Romano",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 24,
+        "email": "giovanni.romano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-014",
+        "nome": "Stefano",
+        "cognome": "Santoro",
+        "corso": "Web Development",
+        "percentuale_assenze": 22,
+        "email": "stefano.santoro@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-015",
+        "nome": "Massimo",
+        "cognome": "Ferrari",
+        "corso": "Informatica",
+        "percentuale_assenze": 29,
+        "email": "massimo.ferrari@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-016",
+        "nome": "Jessica",
+        "cognome": "Ricci",
+        "corso": "Database",
+        "percentuale_assenze": 24,
+        "email": "jessica.ricci@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-017",
+        "nome": "Francesco",
+        "cognome": "Coppola",
+        "corso": "Matematica",
+        "percentuale_assenze": 18,
+        "email": "francesco.coppola@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-018",
+        "nome": "Elena",
+        "cognome": "De Santis",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 12,
+        "email": "elena.desantis@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-019",
+        "nome": "Federico",
+        "cognome": "Ferrari",
+        "corso": "Grafica",
+        "percentuale_assenze": 14,
+        "email": "federico.ferrari@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-020",
+        "nome": "Sergio",
+        "cognome": "Romano",
+        "corso": "Database",
+        "percentuale_assenze": 14,
+        "email": "sergio.romano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-021",
+        "nome": "Stefano",
+        "cognome": "Rinaldi",
+        "corso": "Informatica",
+        "percentuale_assenze": 17,
+        "email": "stefano.rinaldi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-022",
+        "nome": "Alice",
+        "cognome": "Conte",
+        "corso": "Database",
+        "percentuale_assenze": 23,
+        "email": "alice.conte@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-023",
+        "nome": "Giacomo",
+        "cognome": "Mariani",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 22,
+        "email": "giacomo.mariani@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-024",
+        "nome": "Vincenzo",
+        "cognome": "Ferri",
+        "corso": "Game Development",
+        "percentuale_assenze": 17,
+        "email": "vincenzo.ferri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-025",
+        "nome": "Giuseppe",
+        "cognome": "Parisi",
+        "corso": "Informatica",
+        "percentuale_assenze": 10,
+        "email": "giuseppe.parisi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-026",
+        "nome": "Jessica",
+        "cognome": "Pellegrini",
+        "corso": "Informatica",
+        "percentuale_assenze": 15,
+        "email": "jessica.pellegrini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-027",
+        "nome": "Giacomo",
+        "cognome": "Leone",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 24,
+        "email": "giacomo.leone@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-028",
+        "nome": "Claudio",
+        "cognome": "Conte",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 35,
+        "email": "claudio.conte@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-029",
+        "nome": "Leonardo",
+        "cognome": "Fabbri",
+        "corso": "Web Development",
+        "percentuale_assenze": 20,
+        "email": "leonardo.fabbri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-030",
+        "nome": "Simone",
+        "cognome": "Mancini",
+        "corso": "Matematica",
+        "percentuale_assenze": 2,
+        "email": "simone.mancini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-031",
+        "nome": "Giulia",
+        "cognome": "Caruso",
+        "corso": "Web Development",
+        "percentuale_assenze": 17,
+        "email": "giulia.caruso@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-032",
+        "nome": "Federico",
+        "cognome": "De Luca",
+        "corso": "Grafica",
+        "percentuale_assenze": 20,
+        "email": "federico.deluca@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-033",
+        "nome": "Gabriele",
+        "cognome": "Ferraro",
+        "corso": "Economia",
+        "percentuale_assenze": 31,
+        "email": "gabriele.ferraro@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-034",
+        "nome": "Laura",
+        "cognome": "Ferraro",
+        "corso": "Grafica",
+        "percentuale_assenze": 29,
+        "email": "laura.ferraro@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-035",
+        "nome": "Emanuele",
+        "cognome": "Giordano",
+        "corso": "Database",
+        "percentuale_assenze": 8,
+        "email": "emanuele.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-036",
+        "nome": "Diego",
+        "cognome": "Sanna",
+        "corso": "Economia",
+        "percentuale_assenze": 35,
+        "email": "diego.sanna@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-037",
+        "nome": "Jessica",
+        "cognome": "Giordano",
+        "corso": "Database",
+        "percentuale_assenze": 27,
+        "email": "jessica.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-038",
+        "nome": "Elisa",
+        "cognome": "Mariani",
+        "corso": "Economia",
+        "percentuale_assenze": 14,
+        "email": "elisa.mariani@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-039",
+        "nome": "Riccardo",
+        "cognome": "Martinelli",
+        "corso": "Database",
+        "percentuale_assenze": 31,
+        "email": "riccardo.martinelli@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-040",
+        "nome": "Antonio",
+        "cognome": "Sala",
+        "corso": "Economia",
+        "percentuale_assenze": 3,
+        "email": "antonio.sala@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-041",
+        "nome": "Roberto",
+        "cognome": "Greco",
+        "corso": "Database",
+        "percentuale_assenze": 10,
+        "email": "roberto.greco@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-042",
+        "nome": "Marta",
+        "cognome": "Parisi",
+        "corso": "Grafica",
+        "percentuale_assenze": 4,
+        "email": "marta.parisi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-043",
+        "nome": "Federica",
+        "cognome": "Rinaldi",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 29,
+        "email": "federica.rinaldi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-044",
+        "nome": "Irene",
+        "cognome": "Giordano",
+        "corso": "Web Development",
+        "percentuale_assenze": 35,
+        "email": "irene.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-045",
+        "nome": "Luca",
+        "cognome": "Fabbri",
+        "corso": "Database",
+        "percentuale_assenze": 7,
+        "email": "luca.fabbri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-046",
+        "nome": "Jessica",
+        "cognome": "Sala",
+        "corso": "Database",
+        "percentuale_assenze": 17,
+        "email": "jessica.sala@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-047",
+        "nome": "Chiara",
+        "cognome": "Ricci",
+        "corso": "Web Development",
+        "percentuale_assenze": 18,
+        "email": "chiara.ricci@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-048",
+        "nome": "Giorgia",
+        "cognome": "Bruno",
+        "corso": "Economia",
+        "percentuale_assenze": 29,
+        "email": "giorgia.bruno@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-049",
+        "nome": "Marco",
+        "cognome": "Pellegrini",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 16,
+        "email": "marco.pellegrini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-050",
+        "nome": "Arianna",
+        "cognome": "Sala",
+        "corso": "Cloud Computing",
+        "percentuale_assenze": 11,
+        "email": "arianna.sala@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-051",
+        "nome": "Arianna",
+        "cognome": "Colombo",
+        "corso": "Web Development",
+        "percentuale_assenze": 19,
+        "email": "arianna.colombo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-052",
+        "nome": "Arianna",
+        "cognome": "Parisi",
+        "corso": "Informatica",
+        "percentuale_assenze": 12,
+        "email": "arianna.parisi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-053",
+        "nome": "Nicola",
+        "cognome": "Mariani",
+        "corso": "Grafica",
+        "percentuale_assenze": 10,
+        "email": "nicola.mariani@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-054",
+        "nome": "Lucia",
+        "cognome": "Messina",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 33,
+        "email": "lucia.messina@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-055",
+        "nome": "Marco",
+        "cognome": "Parisi",
+        "corso": "Web Development",
+        "percentuale_assenze": 20,
+        "email": "marco.parisi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-056",
+        "nome": "Monica",
+        "cognome": "Russo",
+        "corso": "Grafica",
+        "percentuale_assenze": 7,
+        "email": "monica.russo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-057",
+        "nome": "Elena",
+        "cognome": "Moretti",
+        "corso": "Reti e Sistemi",
+        "percentuale_assenze": 15,
+        "email": "elena.moretti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-058",
+        "nome": "Simone",
+        "cognome": "Costa",
+        "corso": "Economia",
+        "percentuale_assenze": 5,
+        "email": "simone.costa@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-059",
+        "nome": "Francesco",
+        "cognome": "Pellegrini",
+        "corso": "Informatica",
+        "percentuale_assenze": 31,
+        "email": "francesco.pellegrini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-060",
+        "nome": "Federico",
+        "cognome": "Sala",
+        "corso": "Inglese",
+        "percentuale_assenze": 34,
+        "email": "federico.sala@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-061",
+        "nome": "Fabio",
+        "cognome": "Marino",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 30,
+        "email": "fabio.marino@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-062",
+        "nome": "Tommaso",
+        "cognome": "Giordano",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 33,
+        "email": "tommaso.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-063",
+        "nome": "Marta",
+        "cognome": "De Luca",
+        "corso": "Economia",
+        "percentuale_assenze": 34,
+        "email": "marta.deluca@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-064",
+        "nome": "Paolo",
+        "cognome": "Grassi",
+        "corso": "Economia",
+        "percentuale_assenze": 19,
+        "email": "paolo.grassi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-065",
+        "nome": "Elisa",
+        "cognome": "Ferri",
+        "corso": "Economia",
+        "percentuale_assenze": 23,
+        "email": "elisa.ferri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-066",
+        "nome": "Beatrice",
+        "cognome": "Vitale",
+        "corso": "Informatica",
+        "percentuale_assenze": 28,
+        "email": "beatrice.vitale@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-067",
+        "nome": "Daniele",
+        "cognome": "Costa",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 14,
+        "email": "daniele.costa@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-068",
+        "nome": "Federico",
+        "cognome": "Fontana",
+        "corso": "Informatica",
+        "percentuale_assenze": 1,
+        "email": "federico.fontana@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-069",
+        "nome": "Michele",
+        "cognome": "Marchetti",
+        "corso": "Grafica",
+        "percentuale_assenze": 14,
+        "email": "michele.marchetti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-070",
+        "nome": "Marco",
+        "cognome": "Bianchi",
+        "corso": "Informatica",
+        "percentuale_assenze": 3,
+        "email": "marco.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-071",
+        "nome": "Michele",
+        "cognome": "Bianchi",
+        "corso": "Economia",
+        "percentuale_assenze": 2,
+        "email": "michele.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-072",
+        "nome": "Sara",
+        "cognome": "Bianchi",
+        "corso": "Economia",
+        "percentuale_assenze": 32,
+        "email": "sara.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-073",
+        "nome": "Salvatore",
+        "cognome": "Rizzo",
+        "corso": "Economia",
+        "percentuale_assenze": 31,
+        "email": "salvatore.rizzo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-074",
+        "nome": "Gabriele",
+        "cognome": "Serra",
+        "corso": "Informatica",
+        "percentuale_assenze": 8,
+        "email": "gabriele.serra@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-075",
+        "nome": "Claudia",
+        "cognome": "Costa",
+        "corso": "Grafica",
+        "percentuale_assenze": 30,
+        "email": "claudia.costa@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-076",
+        "nome": "Anna",
+        "cognome": "Conti",
+        "corso": "Inglese",
+        "percentuale_assenze": 6,
+        "email": "anna.conti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-077",
+        "nome": "Stefano",
+        "cognome": "Ferri",
+        "corso": "Game Development",
+        "percentuale_assenze": 27,
+        "email": "stefano.ferri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-078",
+        "nome": "Alessia",
+        "cognome": "Galli",
+        "corso": "Reti e Sistemi",
+        "percentuale_assenze": 26,
+        "email": "alessia.galli@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-079",
+        "nome": "Roberta",
+        "cognome": "Pellegrini",
+        "corso": "Intelligenza Artificiale",
+        "percentuale_assenze": 3,
+        "email": "roberta.pellegrini@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-080",
+        "nome": "Stefano",
+        "cognome": "Esposito",
+        "corso": "Web Development",
+        "percentuale_assenze": 25,
+        "email": "stefano.esposito@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-081",
+        "nome": "Chiara",
+        "cognome": "Colombo",
+        "corso": "Matematica",
+        "percentuale_assenze": 15,
+        "email": "chiara.colombo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-082",
+        "nome": "Pietro",
+        "cognome": "Conti",
+        "corso": "Economia",
+        "percentuale_assenze": 34,
+        "email": "pietro.conti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-083",
+        "nome": "Ilaria",
+        "cognome": "Marino",
+        "corso": "Inglese",
+        "percentuale_assenze": 27,
+        "email": "ilaria.marino@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-084",
+        "nome": "Edoardo",
+        "cognome": "Rizzo",
+        "corso": "Web Development",
+        "percentuale_assenze": 29,
+        "email": "edoardo.rizzo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-085",
+        "nome": "Diego",
+        "cognome": "Bianchi",
+        "corso": "Informatica",
+        "percentuale_assenze": 28,
+        "email": "diego.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-086",
+        "nome": "Stefano",
+        "cognome": "Esposito",
+        "corso": "UX Design",
+        "percentuale_assenze": 34,
+        "email": "stefano.esposito2@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-087",
+        "nome": "Luca",
+        "cognome": "Romano",
+        "corso": "Inglese",
+        "percentuale_assenze": 15,
+        "email": "luca.romano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-088",
+        "nome": "Tommaso",
+        "cognome": "Ferrara",
+        "corso": "Grafica",
+        "percentuale_assenze": 31,
+        "email": "tommaso.ferrara@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-089",
+        "nome": "Paola",
+        "cognome": "De Luca",
+        "corso": "Cloud Computing",
+        "percentuale_assenze": 25,
+        "email": "paola.deluca@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-090",
+        "nome": "Simone",
+        "cognome": "Bruno",
+        "corso": "Grafica",
+        "percentuale_assenze": 24,
+        "email": "simone.bruno@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-091",
+        "nome": "Marco",
+        "cognome": "Rinaldi",
+        "corso": "Game Development",
+        "percentuale_assenze": 16,
+        "email": "marco.rinaldi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-092",
+        "nome": "Alice",
+        "cognome": "Lombardi",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 27,
+        "email": "alice.lombardi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-093",
+        "nome": "Monica",
+        "cognome": "Greco",
+        "corso": "Matematica",
+        "percentuale_assenze": 12,
+        "email": "monica.greco@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-094",
+        "nome": "Sergio",
+        "cognome": "De Luca",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 3,
+        "email": "sergio.deluca@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-095",
+        "nome": "Lucia",
+        "cognome": "Esposito",
+        "corso": "Web Development",
+        "percentuale_assenze": 20,
+        "email": "lucia.esposito@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-096",
+        "nome": "Simone",
+        "cognome": "Esposito",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 30,
+        "email": "simone.esposito@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-097",
+        "nome": "Arianna",
+        "cognome": "Vitale",
+        "corso": "Inglese",
+        "percentuale_assenze": 10,
+        "email": "arianna.vitale@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-098",
+        "nome": "Simone",
+        "cognome": "Martinelli",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 5,
+        "email": "simone.martinelli@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-099",
+        "nome": "Edoardo",
+        "cognome": "Bianchi",
+        "corso": "Database",
+        "percentuale_assenze": 4,
+        "email": "edoardo.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-100",
+        "nome": "Salvatore",
+        "cognome": "Caruso",
+        "corso": "Web Development",
+        "percentuale_assenze": 7,
+        "email": "salvatore.caruso@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-101",
+        "nome": "Diego",
+        "cognome": "Marchetti",
+        "corso": "Web Development",
+        "percentuale_assenze": 2,
+        "email": "diego.marchetti@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-102",
+        "nome": "Francesco",
+        "cognome": "Ferrara",
+        "corso": "Game Development",
+        "percentuale_assenze": 33,
+        "email": "francesco.ferrara@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-103",
+        "nome": "Giulia",
+        "cognome": "Giordano",
+        "corso": "UX Design",
+        "percentuale_assenze": 13,
+        "email": "giulia.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-104",
+        "nome": "Giulia",
+        "cognome": "Costa",
+        "corso": "Informatica",
+        "percentuale_assenze": 16,
+        "email": "giulia.costa@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-105",
+        "nome": "Laura",
+        "cognome": "Marino",
+        "corso": "Grafica",
+        "percentuale_assenze": 19,
+        "email": "laura.marino@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-106",
+        "nome": "Alice",
+        "cognome": "Barbieri",
+        "corso": "Cybersecurity",
+        "percentuale_assenze": 4,
+        "email": "alice.barbieri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-107",
+        "nome": "Luca",
+        "cognome": "Leone",
+        "corso": "Informatica",
+        "percentuale_assenze": 6,
+        "email": "luca.leone@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-108",
+        "nome": "Giuseppe",
+        "cognome": "Serra",
+        "corso": "Database",
+        "percentuale_assenze": 13,
+        "email": "giuseppe.serra@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-109",
+        "nome": "Arianna",
+        "cognome": "Giordano",
+        "corso": "Cloud Computing",
+        "percentuale_assenze": 8,
+        "email": "arianna.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-110",
+        "nome": "Valentina",
+        "cognome": "Bianchi",
+        "corso": "Matematica",
+        "percentuale_assenze": 15,
+        "email": "valentina.bianchi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-111",
+        "nome": "Martina",
+        "cognome": "Lombardi",
+        "corso": "Informatica",
+        "percentuale_assenze": 10,
+        "email": "martina.lombardi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-112",
+        "nome": "Beatrice",
+        "cognome": "Serra",
+        "corso": "UX Design",
+        "percentuale_assenze": 19,
+        "email": "beatrice.serra@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-113",
+        "nome": "Irene",
+        "cognome": "Rossi",
+        "corso": "Informatica",
+        "percentuale_assenze": 35,
+        "email": "irene.rossi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-114",
+        "nome": "Bruno",
+        "cognome": "Ferri",
+        "corso": "Web Development",
+        "percentuale_assenze": 6,
+        "email": "bruno.ferri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-115",
+        "nome": "Riccardo",
+        "cognome": "Giordano",
+        "corso": "Web Development",
+        "percentuale_assenze": 7,
+        "email": "riccardo.giordano@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-116",
+        "nome": "Giovanni",
+        "cognome": "Sanna",
+        "corso": "Economia",
+        "percentuale_assenze": 35,
+        "email": "giovanni.sanna@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-117",
+        "nome": "Nicola",
+        "cognome": "Rizzo",
+        "corso": "Marketing Digitale",
+        "percentuale_assenze": 18,
+        "email": "nicola.rizzo@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-118",
+        "nome": "Vincenzo",
+        "cognome": "Grassi",
+        "corso": "Informatica",
+        "percentuale_assenze": 21,
+        "email": "vincenzo.grassi@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-119",
+        "nome": "Vincenzo",
+        "cognome": "Fabbri",
+        "corso": "Informatica",
+        "percentuale_assenze": 16,
+        "email": "vincenzo.fabbri@example.com",
+        "password": "pass1234",
+        "img": null
+    },
+    {
+        "id": "STU-120",
+        "nome": "Arianna",
+        "cognome": "Gentile",
+        "corso": "Matematica",
+        "percentuale_assenze": 16,
+        "email": "arianna.gentile@example.com",
+        "password": "pass1234",
+        "img": null
+    }
+]

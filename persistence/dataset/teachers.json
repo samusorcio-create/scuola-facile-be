@@ -1,0 +1,22 @@
+[
+    {"id": "DOC-001", "nome": "Marco", "cognome": "Bianchi", "materia": "Programmazione", "email": "marco.bianchi@example.com", "password": "pass1234"},
+    {"id": "DOC-002", "nome": "Laura", "cognome": "Ferretti", "materia": "Economia Aziendale", "email": "laura.ferretti@example.com", "password": "pass1234"},
+    {"id": "DOC-003", "nome": "Giuseppe", "cognome": "Lombardi", "materia": "Matematica", "email": "giuseppe.lombardi@example.com", "password": "pass1234"},
+    {"id": "DOC-004", "nome": "Paola", "cognome": "Morandi", "materia": "Design Grafico", "email": "paola.morandi@example.com", "password": "pass1234"},
+    {"id": "DOC-005", "nome": "Roberto", "cognome": "Esposito", "materia": "Reti e Sistemi", "email": "roberto.esposito@example.com", "password": "pass1234"},
+    {"id": "DOC-006", "nome": "Francesca", "cognome": "De Luca", "materia": "Inglese", "email": "francesca.deluca@example.com", "password": "pass1234"},
+    {"id": "DOC-007", "nome": "Antonio", "cognome": "Rinaldi", "materia": "Database", "email": "antonio.rinaldi@example.com", "password": "pass1234"},
+    {"id": "DOC-008", "nome": "Claudia", "cognome": "Santoro", "materia": "Web Development", "email": "claudia.santoro@example.com", "password": "pass1234"},
+    {"id": "DOC-009", "nome": "Stefano", "cognome": "Gatti", "materia": "Cybersecurity", "email": "stefano.gatti@example.com", "password": "pass1234"},
+    {"id": "DOC-010", "nome": "Alessandra", "cognome": "Fabbri", "materia": "Marketing", "email": "alessandra.fabbri@example.com", "password": "pass1234"},
+    {"id": "DOC-011", "nome": "Massimo", "cognome": "Vitale", "materia": "Elettronica", "email": "massimo.vitale@example.com", "password": "pass1234"},
+    {"id": "DOC-012", "nome": "Daniela", "cognome": "Mancini", "materia": "Intelligenza Artificiale", "email": "daniela.mancini@example.com", "password": "pass1234"},
+    {"id": "DOC-013", "nome": "Luca", "cognome": "Palmieri", "materia": "Cloud Computing", "email": "luca.palmieri@example.com", "password": "pass1234"},
+    {"id": "DOC-014", "nome": "Silvia", "cognome": "Benedetti", "materia": "Game Design", "email": "silvia.benedetti@example.com", "password": "pass1234"},
+    {"id": "DOC-015", "nome": "Enrico", "cognome": "Caruso", "materia": "UX/UI Design", "email": "enrico.caruso@example.com", "password": "pass1234"},
+    {"id": "DOC-016", "nome": "Monica", "cognome": "Greco", "materia": "Fisica", "email": "monica.greco@example.com", "password": "pass1234"},
+    {"id": "DOC-017", "nome": "Fabio", "cognome": "Marini", "materia": "Statistica", "email": "fabio.marini@example.com", "password": "pass1234"},
+    {"id": "DOC-018", "nome": "Cristina", "cognome": "Parisi", "materia": "Diritto Informatico", "email": "cristina.parisi@example.com", "password": "pass1234"},
+    {"id": "DOC-019", "nome": "Paolo", "cognome": "Sorrentino", "materia": "Sistemi Operativi", "email": "paolo.sorrentino@example.com", "password": "pass1234"},
+    {"id": "DOC-020", "nome": "Gianna", "cognome": "Testa", "materia": "Project Management", "email": "gianna.testa@example.com", "password": "pass1234"}
+]

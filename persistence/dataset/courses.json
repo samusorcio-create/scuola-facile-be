@@ -1,0 +1,241 @@
+[
+    {
+        "id": "CRS-001",
+        "nome": "Informatica",
+        "descrizione": "Corso base di informatica e fondamenti della programmazione",
+        "docente_id": "DOC-001",
+        "studenti_ids": [
+            "STU-001",
+            "STU-015",
+            "STU-021",
+            "STU-025",
+            "STU-026",
+            "STU-052",
+            "STU-059",
+            "STU-066",
+            "STU-068",
+            "STU-070",
+            "STU-074",
+            "STU-085",
+            "STU-104",
+            "STU-107",
+            "STU-111",
+            "STU-113",
+            "STU-118",
+            "STU-119"
+        ]
+    },
+    {
+        "id": "CRS-002",
+        "nome": "Economia",
+        "descrizione": "Principi di economia aziendale e gestione d'impresa",
+        "docente_id": "DOC-002",
+        "studenti_ids": [
+            "STU-033",
+            "STU-036",
+            "STU-038",
+            "STU-040",
+            "STU-048",
+            "STU-058",
+            "STU-063",
+            "STU-064",
+            "STU-065",
+            "STU-071",
+            "STU-072",
+            "STU-073",
+            "STU-082",
+            "STU-116"
+        ]
+    },
+    {
+        "id": "CRS-003",
+        "nome": "Grafica",
+        "descrizione": "Tecniche di grafica digitale e comunicazione visiva",
+        "docente_id": "DOC-004",
+        "studenti_ids": [
+            "STU-011",
+            "STU-019",
+            "STU-032",
+            "STU-034",
+            "STU-042",
+            "STU-053",
+            "STU-056",
+            "STU-069",
+            "STU-075",
+            "STU-088",
+            "STU-090",
+            "STU-105"
+        ]
+    },
+    {
+        "id": "CRS-004",
+        "nome": "Reti e Sistemi",
+        "descrizione": "Architetture di rete, protocolli e amministrazione di sistemi",
+        "docente_id": "DOC-005",
+        "studenti_ids": [
+            "STU-057",
+            "STU-078"
+        ]
+    },
+    {
+        "id": "CRS-005",
+        "nome": "Web Development",
+        "descrizione": "Sviluppo di applicazioni web con tecnologie front-end e back-end",
+        "docente_id": "DOC-008",
+        "studenti_ids": [
+            "STU-006",
+            "STU-014",
+            "STU-029",
+            "STU-031",
+            "STU-044",
+            "STU-047",
+            "STU-051",
+            "STU-055",
+            "STU-080",
+            "STU-084",
+            "STU-095",
+            "STU-100",
+            "STU-101",
+            "STU-114",
+            "STU-115"
+        ]
+    },
+    {
+        "id": "CRS-006",
+        "nome": "Matematica",
+        "descrizione": "Analisi matematica, algebra e logica applicata all'informatica",
+        "docente_id": "DOC-003",
+        "studenti_ids": [
+            "STU-002",
+            "STU-008",
+            "STU-017",
+            "STU-030",
+            "STU-081",
+            "STU-093",
+            "STU-110",
+            "STU-120"
+        ]
+    },
+    {
+        "id": "CRS-007",
+        "nome": "Inglese",
+        "descrizione": "Lingua inglese tecnica per il settore informatico",
+        "docente_id": "DOC-006",
+        "studenti_ids": [
+            "STU-060",
+            "STU-076",
+            "STU-083",
+            "STU-087",
+            "STU-097"
+        ]
+    },
+    {
+        "id": "CRS-008",
+        "nome": "Database",
+        "descrizione": "Progettazione e gestione di basi di dati relazionali e NoSQL",
+        "docente_id": "DOC-007",
+        "studenti_ids": [
+            "STU-016",
+            "STU-020",
+            "STU-022",
+            "STU-035",
+            "STU-037",
+            "STU-039",
+            "STU-041",
+            "STU-045",
+            "STU-046",
+            "STU-099",
+            "STU-108"
+        ]
+    },
+    {
+        "id": "CRS-009",
+        "nome": "Cybersecurity",
+        "descrizione": "Sicurezza informatica, crittografia e protezione dei dati",
+        "docente_id": "DOC-009",
+        "studenti_ids": [
+            "STU-012",
+            "STU-027",
+            "STU-028",
+            "STU-043",
+            "STU-061",
+            "STU-062",
+            "STU-067",
+            "STU-096",
+            "STU-098",
+            "STU-106"
+        ]
+    },
+    {
+        "id": "CRS-010",
+        "nome": "Marketing Digitale",
+        "descrizione": "Strategie di marketing online e analisi dei dati di mercato",
+        "docente_id": "DOC-010",
+        "studenti_ids": [
+            "STU-005",
+            "STU-007",
+            "STU-013",
+            "STU-054",
+            "STU-092",
+            "STU-094",
+            "STU-117"
+        ]
+    },
+    {
+        "id": "CRS-011",
+        "nome": "Elettronica",
+        "descrizione": "Fondamenti di elettronica digitale e progettazione di circuiti",
+        "docente_id": "DOC-011",
+        "studenti_ids": []
+    },
+    {
+        "id": "CRS-012",
+        "nome": "Intelligenza Artificiale",
+        "descrizione": "Machine learning, reti neurali e applicazioni dell'IA",
+        "docente_id": "DOC-012",
+        "studenti_ids": [
+            "STU-003",
+            "STU-009",
+            "STU-018",
+            "STU-023",
+            "STU-049",
+            "STU-079"
+        ]
+    },
+    {
+        "id": "CRS-013",
+        "nome": "Cloud Computing",
+        "descrizione": "Infrastrutture cloud, virtualizzazione e servizi distribuiti",
+        "docente_id": "DOC-013",
+        "studenti_ids": [
+            "STU-004",
+            "STU-050",
+            "STU-089",
+            "STU-109"
+        ]
+    },
+    {
+        "id": "CRS-014",
+        "nome": "Game Development",
+        "descrizione": "Progettazione e sviluppo di videogiochi con motori grafici",
+        "docente_id": "DOC-014",
+        "studenti_ids": [
+            "STU-010",
+            "STU-024",
+            "STU-077",
+            "STU-091",
+            "STU-102"
+        ]
+    },
+    {
+        "id": "CRS-015",
+        "nome": "UX Design",
+        "descrizione": "Progettazione dell'esperienza utente e prototipazione di interfacce",
+        "docente_id": "DOC-015",
+        "studenti_ids": [
+            "STU-086",
+            "STU-103",
+            "STU-112"
+        ]
+    }
+]
