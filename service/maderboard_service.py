@@ -29,6 +29,9 @@ def create(data):
 
     return maderboard_repository.create(motherboard_2_create)
 
+# def verifica_compatibilita():
+#   
+
 def get_all():
     return maderboard_repository.get_all()
 
@@ -41,12 +44,11 @@ def get_by_id(motherboard_id):
     return motherboard
 
 # Ricerca Motherboard per campo (es: corso=Informatica)
-def search_by_field(field, value):
-    return maderboard_repository.get_by_field(field, value)
+# def search_by_field(field, value):
+#     return maderboard_repository.get_by_field(field, value)
 
 def update(motherboard_id, data):
-    if "password" in data:
-        _validate_motherboard(data)
+    _validate_motherboard(data)
 
     updated = maderboard_repository.update(motherboard_id, data)
 
